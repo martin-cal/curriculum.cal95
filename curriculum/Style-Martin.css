@@ -1,0 +1,23 @@
+body{
+    background-color: lightseagreen;
+}
+
+
+.exp { 
+    text-align: center;
+    margin-right: 15px;
+
+}
+.sup{
+    float:righ;
+    text-align: center;
+}
+
+.block{
+    text-align:center;    
+}
+
+.list{
+    text-align: left;
+    display: inline-block;
+}
